@@ -1,0 +1,12 @@
+{
+  "name": "toutbot-prestige",
+  "version": "1.0.0",
+  "description": "ToutBot Prestige — portage Node.js (sans dépendance) de l'application Flask toutbot_app.py",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22.5.0"
+  }
+}
